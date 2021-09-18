@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @spalomeque99
+- 👀 I’m interested in Mobile Apps
+- 🌱 I’m currently learning React Native
